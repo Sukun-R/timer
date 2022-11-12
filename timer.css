@@ -1,0 +1,22 @@
+#time_select {
+    position: absolute;
+    left: 40%
+}
+
+#margin {
+    margin: 0px 10px;
+}
+
+#timer {
+    position: absolute;
+    left: 25%;
+    top: 30%;
+    font-size: 50px;
+}
+
+#position {
+    position: absolute;
+    left: 43%;
+    top: 65%;
+    width: 120px;
+}
